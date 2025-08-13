@@ -4,6 +4,7 @@ A vulnerable RESTful application written in Node and React based on [OWASP API s
 
 ![Logo](https://raw.githubusercontent.com/bnematzadeh/vulnerable-rest-api/main/client/src/public/logo-home.png)
 
+
 # How to install
 ## Option 1: Run on Docker (recommended)
 ```
@@ -60,5 +61,6 @@ Make sure you have already installed Node and MongoDB on your system.
   - Injection
   - Web Cache Deception
   - Weak Implementation of Reset Password (Account Takeover)
+
 
 
